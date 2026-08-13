@@ -29,58 +29,7 @@ export default function AuthPage() {
                     Welcome Back
                   </h1>
 
-                  {/* <div className="mt-5">
-
-                    <div className="d-flex mb-3">
-
-                      <div
-                        className="bg-success rounded-circle d-flex justify-content-center align-items-center"
-                        style={{
-                          width: 45,
-                          height: 45
-                        }}
-                      >
-                        <i className="fa-solid fa-lock"></i>
-                      </div>
-
-                      <div className="ms-3">
-
-                        <h5>Secure Authentication</h5>
-
-                        <small>
-                          OTP Based Login System
-                        </small>
-
-                      </div>
-
-                    </div>
-
-                    <div className="d-flex mb-3">
-
-                      <div
-                        className="bg-warning rounded-circle d-flex justify-content-center align-items-center"
-                        style={{
-                          width: 45,
-                          height: 45
-                        }}
-                      >
-                        <i className="fa-solid fa-user-check"></i>
-                      </div>
-
-                      <div className="ms-3">
-
-                        <h5>Verified Users</h5>
-
-                        <small>
-                          Safe and trusted environment
-                        </small>
-
-                      </div>
-
-                    </div>
-
-                    
-                  </div> */}
+                  
                   <div className="mt-5">
                     <h4 className="fw-semibold mb-2">
                       Login or Sign Up to Continue

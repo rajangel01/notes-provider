@@ -39,6 +39,12 @@ const UserHome = () => {
     window.location.reload();
   };
 
+   const handleLogout = () => {
+    localStorage.removeItem("isLoggedIn");
+    navigate("/");
+    window.location.reload();
+  };
+
   return (
     <div className="bg-light min-vh-100 py-4">
       {/* Welcome */}
@@ -50,14 +56,14 @@ const UserHome = () => {
               <h3 className="fw-bold text-primary mb-0">{userData.name}</h3>
             </div>
 
-            <span className="badge bg-primary fs-6 px-3 py-2">
-              Notes Provider
+            <span className="badge bg-primary fs-6 px-3 py-2" onClick={handleLogout}>
+              Logout
             </span>
           </div>
         </div>
       </div>
 
-      <div className="container py-5">
+      <div className="container-fluid py-5">
         <div className="row align-items-center min-vh-75">
           <div className="col-lg-8">
             

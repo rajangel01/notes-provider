@@ -1,5 +1,5 @@
 .container {
-  width: 300px;
+  width: 400px;
   margin: 50px auto;
   padding: 20px;
   box-shadow: 0 0 10px #ccc;
@@ -7,24 +7,6 @@
   text-align: center;
 }
 
-/*input {
-  width: 90%;
-  padding: 10px;
-  margin: 10px 0;
-}
-
-button {
-  padding: 10px 20px;
-  background: #007bff;
-  color: white;
-  border: none;
-  cursor: pointer;
-}
-
-.toggle {
-  color: blue;
-  cursor: pointer;
-} */
 
 
 
@@ -39,10 +21,10 @@ button {
 body{
     /* background: linear-gradient(135deg,#0F172A,#1E3A8A,#2563EB); */
     /* background: linear-gradient(135deg,#1E1B4B,#4C1D95,#7C3AED); */
-    /* background: linear-gradient(135deg,#0F2027,#203A43,#2C5364); */
+    background: linear-gradient(135deg,#0F2027,#203A43,#2C5364);
     /* background: linear-gradient(135deg,#111827,#1F2937,#374151); */
     /* background: linear-gradient(135deg,#0F172A,#334155,#64748B); */
-    background: linear-gradient(135deg,#0F172A,#1E3A8A,#2563EB);
+    /* background: linear-gradient(135deg,#0F172A,#1E3A8A,#2563EB); */
     color: white;
     min-height: 100vh;
 }
