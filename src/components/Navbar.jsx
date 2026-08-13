@@ -14,7 +14,9 @@ export default function Navbar() {
   }
 
   return (
-    <nav className="navbar navbar-expand-lg bg-black shadow-sm sticky-top">
+    <nav className="navbar navbar-expand-lg bg-black shadow-sm sticky-top" style={{
+        backgroundColor: "#111827",
+      }}>
       <div className="container-fluid px-4">
 
         {/* Logo */}
