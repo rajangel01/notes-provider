@@ -68,9 +68,7 @@ const UserHome = () => {
           <div className="col-lg-8">
             
 
-            <h3 className="fw-semibold mt-3">
-              Let's make your learning easier. 
-            </h3>
+            <h1 className="text-muted fs-5 mt-3">Let's make your learning easier. </h1>
 
             <p className="text-muted fs-5 mt-3">
               Find all your important notes and study materials in one place. No
