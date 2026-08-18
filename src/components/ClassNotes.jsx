@@ -91,6 +91,12 @@ const ClassNotes = () => {
     },
     {
       day:"10",
+      title:"Sets in Python",
+      description:"Python Sets in Detail",
+      link:"https://drive.google.com/file/d/12geOPBY8e9C8xwdMMTbcNOl-rj75Pv95/view?usp=sharing"
+    },
+    {
+      day:"11",
       title:"Functions in Python",
       description:"Python Functions in Detail",
       link:"https://drive.google.com/file/d/12YteA47HKjiIetAZCDjbaD_hLXLw3jHI/view?usp=sharing"
