@@ -77,6 +77,12 @@ const ClassNotes = () => {
       description: "Practice Questions Based on Loops",
       link: "https://drive.google.com/file/d/1L4ccojetE730i2hpJooVIWQ-d0OyPYZa/view?usp=sharing",
     },
+    {
+      day: "08", 
+      title:"Python Lists",
+      description:"Python Lists Complete Notes",
+      link:"https://drive.google.com/file/d/1ECmDSGhCwWnfMl3ocYuWGSJ-eTFVC7yH/view?usp=sharing"
+    }
   ];
 
   const NoteSection = ({ title, description, badge, badgeClass, notes }) => (
