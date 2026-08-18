@@ -85,6 +85,12 @@ const ClassNotes = () => {
     },
     {
       day:"09",
+      title:"Tuples in Python",
+      description:"Python Tuples in Detail",
+      link:"https://drive.google.com/file/d/1NIA1wVDZMAnAbtNWZH5rbvHSXZ3cGcJW/view?usp=sharing"
+    },
+    {
+      day:"10",
       title:"Functions in Python",
       description:"Python Functions in Detail",
       link:"https://drive.google.com/file/d/12YteA47HKjiIetAZCDjbaD_hLXLw3jHI/view?usp=sharing"
