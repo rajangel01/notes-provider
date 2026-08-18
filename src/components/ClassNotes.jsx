@@ -82,6 +82,12 @@ const ClassNotes = () => {
       title:"Python Lists",
       description:"Python Lists Complete Notes",
       link:"https://drive.google.com/file/d/1ECmDSGhCwWnfMl3ocYuWGSJ-eTFVC7yH/view?usp=sharing"
+    },
+    {
+      day:"09",
+      title:"Functions in Python",
+      description:"Python Functions in Detail",
+      link:"https://drive.google.com/file/d/12YteA47HKjiIetAZCDjbaD_hLXLw3jHI/view?usp=sharing"
     }
   ];
 
