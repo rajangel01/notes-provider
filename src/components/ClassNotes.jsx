@@ -100,6 +100,12 @@ const ClassNotes = () => {
       title:"Functions in Python",
       description:"Python Functions in Detail",
       link:"https://drive.google.com/file/d/12YteA47HKjiIetAZCDjbaD_hLXLw3jHI/view?usp=sharing"
+    },
+    {
+      day:"12",
+      title:"Function Practice Questions",
+      description:"Practice Questions based on Functions",
+      link:"https://drive.google.com/file/d/1F4uQQBNwZ-Tm6pdeAB0uD6P8vWXl7EKg/view?usp=sharing"
     }
   ];
 
