@@ -32,6 +32,12 @@ const ClassNotes = () => {
       description: "Semantic Tag",
       link: "https://drive.google.com/file/d/1wFsZCasD5-z8o1W_XJDcbQ63ssa5yU5W/view?usp=sharing",
     },
+    {
+      day:"06",
+      title:"HTML Project",
+      description:"Building Portfolio using HTML and CSS",
+      link:"https://drive.google.com/file/d/1j1EpnTLeo3tGGFTA8ect8--k2voigURq/view?usp=sharing"
+    }
   ];
 
   const pythonNotes = [
@@ -85,24 +91,30 @@ const ClassNotes = () => {
     },
     {
       day:"09",
+      title:"Python Lists Questions",
+      description:"Practice Questions based on Python lists",
+      link:"https://drive.google.com/file/d/1xLHhvLyjrB1kXY-79kdvjvNt-yGcVayU/view?usp=sharing"
+    },
+    {
+      day:"10",
       title:"Tuples in Python",
       description:"Python Tuples in Detail",
       link:"https://drive.google.com/file/d/1NIA1wVDZMAnAbtNWZH5rbvHSXZ3cGcJW/view?usp=sharing"
     },
     {
-      day:"10",
+      day:"11",
       title:"Sets in Python",
       description:"Python Sets in Detail",
       link:"https://drive.google.com/file/d/12geOPBY8e9C8xwdMMTbcNOl-rj75Pv95/view?usp=sharing"
     },
     {
-      day:"11",
+      day:"12",
       title:"Functions in Python",
       description:"Python Functions in Detail",
       link:"https://drive.google.com/file/d/12YteA47HKjiIetAZCDjbaD_hLXLw3jHI/view?usp=sharing"
     },
     {
-      day:"12",
+      day:"13",
       title:"Function Practice Questions",
       description:"Practice Questions based on Functions",
       link:"https://drive.google.com/file/d/1F4uQQBNwZ-Tm6pdeAB0uD6P8vWXl7EKg/view?usp=sharing"
