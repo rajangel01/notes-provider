@@ -37,6 +37,12 @@ const ClassNotes = () => {
       title:"HTML Project",
       description:"Building Portfolio using HTML and CSS",
       link:"https://drive.google.com/file/d/1j1EpnTLeo3tGGFTA8ect8--k2voigURq/view?usp=sharing"
+    },
+    {
+      day:"07",
+      title:"Lab Practice Questions",
+      description:"Practice All of the Questions in Lab",
+      link:"https://drive.google.com/file/d/1K9gTBgg7SBmOw0zKuNDoEzOpIh3cnOFf/view?usp=sharing"
     }
   ];
 
@@ -109,12 +115,18 @@ const ClassNotes = () => {
     },
     {
       day:"12",
+      title:"Dictionary in Python",
+      description:"Python Dictionary in Detail",
+      link:"https://drive.google.com/file/d/1f0HsyiyNHbiP4CAMjl7wamwa1pQfOlOz/view?usp=sharing"
+    },
+    {
+      day:"13",
       title:"Functions in Python",
       description:"Python Functions in Detail",
       link:"https://drive.google.com/file/d/12YteA47HKjiIetAZCDjbaD_hLXLw3jHI/view?usp=sharing"
     },
     {
-      day:"13",
+      day:"14",
       title:"Function Practice Questions",
       description:"Practice Questions based on Functions",
       link:"https://drive.google.com/file/d/1F4uQQBNwZ-Tm6pdeAB0uD6P8vWXl7EKg/view?usp=sharing"
