@@ -27,22 +27,34 @@ const ClassNotes = () => {
       link: "https://drive.google.com/file/d/13dR0l9vmDZE2UJln4dWMsjKC-uhywvz8/view?usp=sharing",
     },
     {
-      day: "05",
+      day:"05",
+      title:"Table in HTML",
+      description:"Table, tr, th, td, etc.",
+      link:"https://drive.google.com/file/d/1ls9tX7isLrjf9JSu5dOseGCyME7xcmWu/view?usp=sharing"
+    },
+    {
+      day: "06",
       title: "HTML Day 5",
       description: "Semantic Tag",
       link: "https://drive.google.com/file/d/1wFsZCasD5-z8o1W_XJDcbQ63ssa5yU5W/view?usp=sharing",
     },
     {
-      day:"06",
+      day:"07",
       title:"HTML Project",
       description:"Building Portfolio using HTML and CSS",
       link:"https://drive.google.com/file/d/1j1EpnTLeo3tGGFTA8ect8--k2voigURq/view?usp=sharing"
     },
     {
-      day:"07",
+      day:"08",
       title:"Lab Practice Questions",
       description:"Practice All of the Questions in Lab",
       link:"https://drive.google.com/file/d/1K9gTBgg7SBmOw0zKuNDoEzOpIh3cnOFf/view?usp=sharing"
+    },
+    {
+      day:"09",
+      title:"HTML Entities",
+      description:"Complete HTML Entities Notes",
+      link:"https://drive.google.com/file/d/1pv_Ars4fS9Jzm_yCAnR_e-cxmLZ9mBtz/view?usp=sharing"
     }
   ];
 
